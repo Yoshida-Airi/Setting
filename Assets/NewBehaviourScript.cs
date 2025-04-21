@@ -7,8 +7,8 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //konnnitiha
-        //Hello World!!
+        //ohayougozaimsu!!
+        //konnnitiha sekai!!
     }
 
     // Update is called once per frame
